@@ -111,6 +111,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Made with ❤️ by [sirknightfall](https://github.com/sirknightfall)
+> Made with ❤️ by [sirknightfall](https://github.com/sirknightfall) and some helpfull AI
 
 ---
