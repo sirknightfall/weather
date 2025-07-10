@@ -114,5 +114,3 @@ This project is licensed under the [MIT License](LICENSE).
 > Made with ❤️ by [sirknightfall](https://github.com/sirknightfall)
 
 ---
-
-Let me know if you want to include more details, screenshots, or usage tips!
