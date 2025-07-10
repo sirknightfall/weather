@@ -7,7 +7,7 @@ Sure! Here’s a vibrant and engaging README for your weather app project using 
 Welcome to **Weather App** — your sleek, simple, and stylish way to check the weather!  
 Built with React, this project is the perfect starting point for learning about APIs, UI design, and the magic of real-time data.
 
-![Weather App Screenshot](https://user-images.githubusercontent.com/your-username/your-screenshot.png) <!-- Replace with your actual screenshot URL -->
+
 
 ---
 
